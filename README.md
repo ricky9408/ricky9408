@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ricky9408
-- 👀 I’m interested in AWS
-- 🌱 I’m currently learning AWS Architect Solution
-- 💞️ I’m looking to collaborate on AWS, Linux
+- 👀 I’m interested in AWS, Kubernetes
+- 💞️ I’m looking to collaborate on AWS, Linux, CNCF
 - 📫 How to reach me 
 
 <!---
