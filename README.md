@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on Kubernetes, AWS, Google Cloud, Linux, CNCF Projects
 - 📫 How to reach me sanghyuk.lee555@gmail.com
 - 💻 My Website https://sanghyuk-lee.com
+- 🔗 My LinkedIn https://www.linkedin.com/in/sanghyuk-lee-788527240/
 - 🏢 Working at Leverages Co., Ltd. now
 
 <!---
